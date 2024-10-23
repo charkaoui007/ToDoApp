@@ -70,7 +70,7 @@ Before setting up the project, make sure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/to-do-list-app.git
+    https://github.com/charkaoui007/ToDoApp.git
     ```
 
 2. Navigate to the backend folder:
