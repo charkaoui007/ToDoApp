@@ -108,7 +108,7 @@ The backend should now be running at `http://localhost:8080`.
 
 3. Start the development server:
     ```bash
-    npm start
+    npm run dev
     ```
 
 The frontend should now be running at `http://localhost:5173`.
